@@ -1,0 +1,6 @@
+MAIN TASK: build energy forecasting model of some kind. electricity price or electricity load forecasts are two possibilities, start with whichever is easier.
+SUB TASKS:
+  - decide which model to build based on:
+    - availibility of data
+    - ease of use of data
+    - ability to make a measurable model

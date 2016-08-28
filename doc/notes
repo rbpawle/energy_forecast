@@ -1,0 +1,15 @@
+load forecast predictors used by other people:
+
+dry bulb temperature
+dew point temperature
+hour of day
+day of week
+holiday/weekend indicator (0/1, heh)
+previous 24-hr average load
+24-hr lagged load
+168-hr lagged load
+
+predictors for price forecast include the above, and also:
+
+natural gas prices (spot and lagged)
+electricity prices (lagged)
